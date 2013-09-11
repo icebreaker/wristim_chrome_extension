@@ -1,6 +1,6 @@
 Wrist.im - Chrome New Tab Page
 ==============================
-Shows Wrist.im as your New Tab Page in Chrome.
+Shows [wrist.im](http://wrist.im) as your New Tab Page in Chrome.
 
 That's all. Enjoy :)
 
