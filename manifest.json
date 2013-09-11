@@ -1,0 +1,19 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "chrome_url_overrides": {
+      "newtab": "Default.html"
+   },
+   "description": "Wrist.im as New Tab Page",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "48": "icon48.png"
+   },
+   "incognito": "split",
+   "manifest_version": 2,
+   "name": "Wrist.im as New Tab Page",
+   "permissions": [ "http://*/*", "https://*/*", "chrome://favicon/", "unlimitedStorage", "management", "history", "bookmarks" ],
+   "version": "0.0.1"
+}
