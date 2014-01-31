@@ -15,5 +15,5 @@ License
 -------
 Copyright (c) 2013, Mihail Szabolcs
 
-Kruto+ is provided **as-is** under the **MIT** license. For more information see
+Wrist.im - Chrome New Tab Page is provided **as-is** under the **MIT** license. For more information see
 LICENSE.
